@@ -8,4 +8,4 @@ findspark.init()
 spark = SparkSession.builder.master(
     "local[*]").appName('Curso Pyspark').getOrCreate()
 
-spark.close()
+spark.stop()
