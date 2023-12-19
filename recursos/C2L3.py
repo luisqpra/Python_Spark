@@ -1,10 +1,6 @@
 # Diferentes formas de crear un RDD
 
-import findspark
-
 from pyspark.sql import SparkSession
-
-findspark.init()
 
 spark = SparkSession.builder.getOrCreate()
 
