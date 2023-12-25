@@ -20,4 +20,3 @@ hash('x') % num_particiones
 hash('y') % num_particiones
 
 hash('z') % num_particiones
-
