@@ -33,7 +33,7 @@ Para ejecutar los notebooks, asegúrate de tener instalado Python y PySpark. Pue
 1. Clona el repositorio a tu máquina local:
 
    ```bash
-   git clone https://github.com/TuUsuario/Proyecto-PySpark.git
+   git clone https://github.com/luisqpra/Python_Spark.git
    ```
 
 2. Descarga la base de datos desde el enlace proporcionado.
